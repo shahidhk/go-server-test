@@ -205,7 +205,7 @@ notify:
 
 # To see actual endpoints for these routes, use `$ hasura ms ls`
 
-app:
+www:
   /:
     corsPolicy: allow_all
     upstreamService:
